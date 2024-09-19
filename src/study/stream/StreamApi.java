@@ -1,7 +1,6 @@
 package study.stream;
 
 import org.junit.Test;
-import study.lambda.Employee;
 
 import java.util.Arrays;
 import java.util.Collections;
